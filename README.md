@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fah-ramatis-lami
+- 👋 Hi, I’m @cherryramatisdev
 - 👀 I’m interested in backend development, typescript, rust, lisp, cloud services
 - 🌱 I’m currently learning rust and aws
