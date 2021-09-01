@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cherryramatisdev
 - 👩‍⚕️ I'm a backend developer at @lami-health
 - 👀 I’m interested in emacs, vim, elm, clojure.
-- 🌱 I’m currently clojure and rust.
+- 🌱 I’m currently clojure and elm.
