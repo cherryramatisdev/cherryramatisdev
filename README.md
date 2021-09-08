@@ -9,11 +9,12 @@ Amo linux, vim, emacs e mais ainda desenvolver softwares com maxima qualidade
 ```vim
 function s:ReturnMyInfos() abort
   let l:name = "Cherry Ramatis"
+  let l:pronouns = "She/Her"
   let l:acknowledgements = "Backend Developer"
 
   let l:languages = ['Typescript', 'Clojure', 'Vimscript', 'Emacs lisp']
   
-  return l:name . l:acknowledgements . join(l:languages, ', ')
+  return l:name . l:pronouns . l:acknowledgements . join(l:languages, ', ')
 endfunction
 
 call s:ReturnMyInfos()
