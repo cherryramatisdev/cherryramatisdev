@@ -33,11 +33,11 @@ call s:ReturnMyInfos()
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a align="left" width="45%" href="https://github.com/cherryramatisdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a align="right" width="45%" href="https://github.com/cherryramatisdev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27&bg_color=FFFF0000" alt="cherryramatisdev github stats"/>
 </a>
 
