@@ -50,5 +50,5 @@ call s:ReturnMyInfos()
 
 #### Rede Sociais!
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/cherryramatis) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=Linkedin&logoColor=back)](https://www.linkedin.com/in/cherryramatis/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/cherryramatis) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B?style=flat-square&logo=Linkedin&logoColor=back)](https://www.linkedin.com/in/cherryramatis/)
