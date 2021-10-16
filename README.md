@@ -33,9 +33,9 @@ call s:ReturnMyInfos()
 
 ## **GitHub Estatísticas**
 
-<center>
+<center width="100%">
   <table align="center" width="100%">
-      <tr>
+      <tr width="100%">
           <td align="left" width="50%">
               <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000"  alt="cherryramatisdev top langs"/>
           </td>
