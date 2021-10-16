@@ -33,30 +33,13 @@ call s:ReturnMyInfos()
 
 ## **GitHub Estatísticas**
 
-<center>
-  <table align="center">
-      <td align="left">
-        <a href="https://github.com/cherryramatisdev">
-          <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000" />
-        </a>
-      </td>
-      
-      <td align="right">
-         <a href="https://github.com/cherryramatisdev">
-          <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27&bg_color=FFFF0000" alt="cherryramatisdev github stats" />
-         </a>
-      </td>
-  </table>
-</center>
-
-
 <table align="center">
         <tr>
             <td align="left">
-                <img height=150 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
+                <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000"  alt="cherryramatisdev top langs"/>
             </td>
             <td align="right">
-                <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
+                <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27&bg_color=FFFF0000"  alt="cherryramatisdev github stats"/>
             </td>
         </tr>
 </table>
