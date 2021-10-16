@@ -34,7 +34,7 @@ call s:ReturnMyInfos()
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&theme=dracula&hide_langs_below=1&bg_color=FFFF0000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000" />
 </a>
 
 <a href="https://github.com/Gurupreet">
