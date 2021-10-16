@@ -33,19 +33,22 @@ call s:ReturnMyInfos()
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&theme=dracula&hide_langs_below=1" />
-</a>
+<center>
+  <table align="center">
+      <tr>
+          <td align="left">
+              <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryramatisdev&layout=compact&theme=dracula&hide_langs_below=1&bg_color=FFFF0000&hide_border=true"  alt="cherryramatisdev top langs"/>
+          </td>
+          <td align="right">
+              <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27&bg_color=FFFF0000&hide_border=true"  alt="cherryramatisdev github stats"/>
+          </td>
+      </tr>
+  </table>
+</center>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[twitter]: https://twitter.com/cherryramatis
-[linkedin]: https://www.linkedin.com/in/cherryramatis/
 <br>
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter]
-👔 [linkedin][linkedin]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cherryramatis) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cherryramatis/)
