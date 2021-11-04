@@ -1,26 +1,36 @@
-### Inhai, prazer me chamo Cherry 💃
+### Hello, my name is Cherry 💃
 
-Amo linux, vim, emacs e mais ainda desenvolver softwares com maxima qualidade
+I love linux, open source technologies, window managers, editors(aka neovim) and more than that, developing high quality softwares.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```vim
-function s:ReturnMyInfos() abort
-  let l:name = "Cherry Ramatis"
-  let l:pronouns = "She/Her"
-  let l:acknowledgements = "Backend Developer"
+```rust
+struct Cherry {
+    name: String,
+    pronouns: String,
+    acknowledgements: String,
+    languages: [String],
+}
 
-  let l:languages = ['Typescript', 'Clojure', 'Vimscript', 'Emacs lisp']
-  
-  return l:name . l:pronouns . l:acknowledgements . join(l:languages, ', ')
-endfunction
+impl Cherry {
+    pub fn new() -> Self {
+        Self {
+            name: "Cherry",
+            pronouns: "She/Her",
+            acknowledgements: "Backend Developer",
+            languages: ["Typescript", "Lua", "Rust", "Css", "Html"],
+        }
+    }
+}
 
-call s:ReturnMyInfos()
+fn main() {
+    Cherry::new();
+}
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and tools**  
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
@@ -28,7 +38,8 @@ call s:ReturnMyInfos()
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
 ## **GitHub Estatísticas**
@@ -38,7 +49,7 @@ call s:ReturnMyInfos()
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherryramatisdev&show_icons=true&theme=dracula&line_height=27" alt="**Cherry Ramatis** github stats"/>
 </a>
 
 [twitter]: https://twitter.com/cherryramatis
