@@ -6,39 +6,27 @@ I love linux, open source technologies, window managers, editors(aka neovim) and
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```rust
-struct Cherry {
-    name: String,
-    pronouns: String,
-    acknowledgements: String,
-    languages: [String],
-}
-
-impl Cherry {
-    pub fn new() -> Self {
-        Self {
-            name: "Cherry",
-            pronouns: "She/Her",
-            acknowledgements: "Backend Developer",
-            languages: ["Typescript", "Lua", "Rust", "Css", "Html"],
-        }
+```elixir
+defmodule Cherry do
+  def its_me do
+    %{name: "Cherry Ramatis", 
+      pronouns: "She/Her", 
+      acknowledgements: "Backend Developer", 
+      languages: [:HTML, :Css, :Javascript, :Typescript, :Vimscript, :Elixir, :Ruby, :SQL, :POSIX]
     }
-}
-
-fn main() {
-    Cherry::new();
-}
+  end
+end
 ```
 
 ## **Languages and tools**  
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
