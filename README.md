@@ -35,6 +35,6 @@ class Cherry {
 [linkedin]: https://www.linkedin.com/in/cherryramatis/
 <br>
 
-#### Find me at
+## Find me at
 
 👔 [linkedin][linkedin]
