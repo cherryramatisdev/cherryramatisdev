@@ -1,6 +1,6 @@
 ### Hello, my name is Cherry 💃
 
-I'm a backend developer working at @lami-health
+I'm a backend developer working at [@lami](https://github.com/lami-health)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
