@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript stack<br>👯 I’m looking to collaborate on Automation projects<br>🤝 I’m looking for help with Functional programming<br>🌱 I’m currently learning Functional programming through elixir and Clojure<br>💬 Ask me about text editors, shell programming, automation, terminal usage, javascript<br>⚡ Fun fact I have a wpm of 100
+🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript stack<br>👯 I’m looking to collaborate on Automation projects<br>🤝 I’m looking for help with Golang, Rust and Ruby<br>🌱 I’m currently learning Rust and Ruby<br>💬 Ask me about text editors, shell programming, automation, terminal usage, javascript, golang<br>⚡ Fun fact I have a wpm of 100
 
 
 ## 🌐 Socials:
