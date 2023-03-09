@@ -8,6 +8,33 @@
 - ⚡ Fun fact I have a wpm of 118
 - 🏳️‍⚧️ Pronouns: She/Her Ela/Dela
 
+```rust
+#[derive(Debug)]
+struct Me {
+    name: String,
+    pronouns: Vec<String>,
+    current_working: String,
+    languages: Vec<String>,
+    tools: Vec<String>,
+}
+
+impl Me {
+    fn new() -> Self {
+        Self {
+            name: "Cherry Ramatis".to_string(),
+            pronouns: vec!["She".to_string(), "Her".to_string(), "Ela".to_string(), "Dela".to_string()],
+            current_working: "Lami Health".to_string(),
+            languages: vec!["Typescript".to_string(), "Rust".to_string(), "Bash".to_string(), "Perl".to_string(), "Golang".to_string()],
+            tools: vec!["(Neo)Vim".to_string(), "Emacs".to_string(), "Docker".to_string(), "AWS".to_string()],
+        }
+    }
+}
+
+fn main() {
+    println!("{:?}", Me::new());
+}
+```
+
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
