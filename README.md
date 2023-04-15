@@ -2,30 +2,30 @@
 
 
 - 🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript/typescript stack
-- 🤝 I’m looking for help with Elixir, Javascript/Typescript and Ruby
-- 🌱 I’m currently learning Elixir and Ruby
+- 🤝 I’m looking for help with Javascript/Typescript and Rust
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about text editors, shell programming, automation, terminal usage, javascript, typescript
 - ⚡ Fun fact I have a wpm of 118
 - 🏳️‍⚧️ Pronouns: She/Her Ela/Dela
 
 ```rust
 #[derive(Debug)]
-struct Me {
-    name: String,
-    pronouns: Vec<String>,
-    current_working: String,
-    languages: Vec<String>,
-    tools: Vec<String>,
+struct Me<'a> {
+    name: &'a str,
+    pronouns: Vec<&'a str>,
+    current_working: &'a str,
+    languages: Vec<&'a str>,
+    tools: Vec<&'a str>,
 }
 
-impl Me {
+impl Me<'_> {
     fn new() -> Self {
         Self {
-            name: "Cherry Ramatis".to_string(),
-            pronouns: vec!["She".to_string(), "Her".to_string(), "Ela".to_string(), "Dela".to_string()],
-            current_working: "Lami Health".to_string(),
-            languages: vec!["Typescript".to_string(), "Rust".to_string(), "Bash".to_string(), "Perl".to_string(), "Golang".to_string()],
-            tools: vec!["(Neo)Vim".to_string(), "Emacs".to_string(), "Docker".to_string(), "AWS".to_string()],
+            name: "Cherry Ramatis",
+            pronouns: vec!["She", "Her", "Ela", "Dela"],
+            current_working: "Lami Health",
+            languages: vec!["Typescript", "Rust", "Bash", "Perl", "Golang"],
+            tools: vec!["(Neo)Vim", "Emacs", "Docker", "AWS"],
         }
     }
 }
