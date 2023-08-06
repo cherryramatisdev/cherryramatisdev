@@ -2,37 +2,28 @@
 
 
 - 🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript/typescript stack
-- 🤝 I’m looking for help with Javascript/Typescript and Rust
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about text editors, shell programming, automation, terminal usage, javascript, typescript
-- ⚡ Fun fact I have a wpm of 118
+- 🤝 I love to write about ruby and other stuffs I'm using at [https://dev.to/cherryramatis/]
+- 💬 Ask me about text editors, automation, scripting, ruby, typescript, nestjs
+- ⚡ Fun fact I can type 118 words per minute
 - 🏳️‍⚧️ Pronouns: She/Her Ela/Dela
 
-```rust
-#[derive(Debug)]
-struct Me<'a> {
-    name: &'a str,
-    pronouns: Vec<&'a str>,
-    current_working: &'a str,
-    languages: Vec<&'a str>,
-    tools: Vec<&'a str>,
-}
+```ruby
+# Me defines this crazy person named Cherry that love to code and share knowledge
+class Me < Dry::Struct
+  attribute :name, Types::String
+  attribute :pronouns, Types::Array.of(Types::String)
+  attribute :current_working, Types::String
+  attribute :languages, Types::Array.of(Types::String)
+  attribute :tools, Types::Array.of(Types::String)
+  attribute :frameworks, Types::Array.of(Types::String)
+end
 
-impl Me<'_> {
-    fn new() -> Self {
-        Self {
-            name: "Cherry Ramatis",
-            pronouns: vec!["She", "Her", "Ela", "Dela"],
-            current_working: "Lami Health",
-            languages: vec!["Typescript", "Rust", "Bash", "Perl", "Golang"],
-            tools: vec!["(Neo)Vim", "Emacs", "Docker", "AWS"],
-        }
-    }
-}
-
-fn main() {
-    println!("{:?}", Me::new());
-}
+User.new(name: 'Cherry Ramatis',
+         pronouns: %w[She Her Ela Dela],
+         current_working: 'Lami Health (https://www.lamimed.it)',
+         languages: %w[Ruby Typescript Golang],
+         tools: %w[Vim Neovim Docker AWS],
+         frameworks: ['Ruby on rails', 'Next.js', 'Nest.js', 'SST'])
 ```
 
 <hr>
