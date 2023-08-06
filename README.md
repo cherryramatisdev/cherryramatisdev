@@ -32,6 +32,9 @@ User.new(name: 'Cherry Ramatis',
 </p>
 
 <p align="center">
+   <a href= "https://dev.to/cherryramatis/">
+    <img width="30" height="30" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" />
+  </a>
   <a href= "https://github.com/cherryramatisdev/">
     <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
