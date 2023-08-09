@@ -2,9 +2,11 @@
 
 
 - 🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript/typescript stack
-- 🤝 I love to write about ruby and other stuffs I'm using at [https://dev.to/cherryramatis/]
+- 💜 I'm a proud member of the best community [He4rt](https://github.com/he4rt)
+- 🤝 I love to write about ruby and other stuffs I'm using at [Dev to](https://dev.to/cherryramatis/)
 - 💬 Ask me about text editors, automation, scripting, ruby, typescript, nestjs
 - ⚡ Fun fact I can type 118 words per minute
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cherryramatis/) or Discord(cherry_ramatis#8366)
 - 🏳️‍⚧️ Pronouns: She/Her Ela/Dela
 
 ```ruby
