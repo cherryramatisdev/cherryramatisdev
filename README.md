@@ -11,13 +11,13 @@
 
 ## Recently articles at [Dev.to](https://dev.to/cherryramatis)
 
-- <https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij>
-- <https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452>
-- <https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip>
-- <https://dev.to/cherryramatis/creating-a-sinatra-api-with-system-wide-dependency-injection-using-dry-system-10mp>
-- <https://dev.to/cherryramatis/how-to-manage-http-requests-on-page-load-with-elm-74b>
+- 📚 <https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij>
+- 📚 <https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452>
+- 📚 <https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip>
+- 📚 <https://dev.to/cherryramatis/creating-a-sinatra-api-with-system-wide-dependency-injection-using-dry-system-10mp>
+- 📚 <https://dev.to/cherryramatis/how-to-manage-http-requests-on-page-load-with-elm-74b>
 
-
+## Me as Code (because why not right)
 
 ```ruby
 # Me defines this crazy person named Cherry that love to code and share knowledge
