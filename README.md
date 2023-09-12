@@ -17,6 +17,10 @@
 - 📚 <https://dev.to/cherryramatis/creating-a-sinatra-api-with-system-wide-dependency-injection-using-dry-system-10mp>
 - 📚 <https://dev.to/cherryramatis/how-to-manage-http-requests-on-page-load-with-elm-74b>
 
+<a href="https://devto-articles-readme.vercel.app">
+  <img src="https://devto-articles-readme.vercel.app" width="341" height="571" alt="Devto latest articles">
+</a>
+
 ## Me as Code (because why not right)
 
 ```ruby
