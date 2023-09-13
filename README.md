@@ -14,7 +14,7 @@
 WORK IN PROGRESS
 
 <a href="https://devto-articles-readme.vercel.app/stats?usuario=cherryramatis">
-  <img src="https://devto-articles-readme.vercel.app/stats?usuario=cherryramatis" width="500" height="571" alt="Devto latest articles">
+  <img src="https://devto-articles-readme.vercel.app/stats?usuario=cherryramatis" width="1000" height="571" alt="Devto latest articles">
 </a>
 
 ## Me as Code (because why not right)
