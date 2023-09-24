@@ -59,3 +59,10 @@ User.new(name: 'Cherry Ramatis',
     <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
 </p>
+
+
+## Testing area
+
+<a href="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherryramatisdev">
+  <img src="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherryramatisdev" width="450" height="195" alt="100 dias de codigo">
+</a>
