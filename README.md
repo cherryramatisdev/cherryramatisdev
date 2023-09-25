@@ -63,6 +63,6 @@ User.new(name: 'Cherry Ramatis',
 
 ## Testing area
 
-<a href="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherryramatisdev">
-  <img src="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherryramatisdev" width="450" height="195" alt="100 dias de codigo">
+<a href="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherry_ramatis">
+  <img src="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherry_ramatis" width="450" height="195" alt="100 dias de codigo">
 </a>
