@@ -19,6 +19,12 @@
 - [Complementing exceptions - Introducing monads for error handling in ruby](https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip)
 <!-- BLOG-POST-LIST:END -->
 
+## My progress on the 100 days of code (Portuguese only)
+
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
+
 ## Me as Code (because why not right)
 
 ```ruby
@@ -59,10 +65,3 @@ User.new(name: 'Cherry Ramatis',
     <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
 </p>
-
-
-## Testing area
-
-<a href="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherry_ramatis">
-  <img src="https://devto-articles-readme.vercel.app/100diasdecodigo?username=cherry_ramatis" width="450" height="195" alt="100 dias de codigo">
-</a>
