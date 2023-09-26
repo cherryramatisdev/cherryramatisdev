@@ -12,7 +12,7 @@
 ## Recently articles at [Dev.to](https://dev.to/cherryramatis)
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling state between multiple instances with elixir](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
+- [Handling state between multiple processes with elixir](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
 - [Bringing more sweetness to Ruby with Sorbet types 🍦](https://dev.to/cherryramatis/bringing-more-sweetness-to-ruby-with-sorbet-types-13jp)
 - [Linux filters - How to streamline text like a boss](https://dev.to/cherryramatis/linux-filters-how-to-streamline-text-like-a-boss-2dp4)
 - [Enhancing development with REPLs - A practical guide](https://dev.to/cherryramatis/enhancing-development-with-repls-a-practical-guide-2fij)
