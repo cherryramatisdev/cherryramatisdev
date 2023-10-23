@@ -12,11 +12,11 @@
 ## Recently articles at [Dev.to](https://dev.to/cherryramatis)
 
 <!-- BLOG-POST-LIST:START -->
+- [Supervisors - Letting things crash](https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2)
 - [Gen servers - Abstracting state management and task run together](https://dev.to/cherryramatis/gen-servers-abstracting-state-management-and-task-run-together-hpd)
 - [Pattern matching - Dealing with the if statement nightmare](https://dev.to/cherryramatis/pattern-matching-dealing-with-the-if-statement-nightmare-kkb)
 - [Handling state between multiple processes with elixir](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
 - [Bringing more sweetness to Ruby with Sorbet types 🍦](https://dev.to/cherryramatis/bringing-more-sweetness-to-ruby-with-sorbet-types-13jp)
-- [Linux filters - How to streamline text like a boss](https://dev.to/cherryramatis/linux-filters-how-to-streamline-text-like-a-boss-2dp4)
 <!-- BLOG-POST-LIST:END -->
 
 ## My progress on the 100 days of code (Portuguese only)
