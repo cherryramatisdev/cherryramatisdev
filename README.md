@@ -25,27 +25,6 @@
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
 
-## Me as Code (because why not right)
-
-```ruby
-# Me defines this crazy person named Cherry that love to code and share knowledge
-class Me < Dry::Struct
-  attribute :name, Types::String
-  attribute :pronouns, Types::Array.of(Types::String)
-  attribute :current_working, Types::String
-  attribute :languages, Types::Array.of(Types::String)
-  attribute :tools, Types::Array.of(Types::String)
-  attribute :frameworks, Types::Array.of(Types::String)
-end
-
-User.new(name: 'Cherry Ramatis',
-         pronouns: %w[She Her Ela Dela],
-         current_working: 'Lami Health (https://www.lamimed.it)',
-         languages: %w[Ruby Typescript Golang],
-         tools: %w[Vim Neovim Docker AWS],
-         frameworks: ['Ruby on rails', 'Next.js', 'Nest.js', 'SST'])
-```
-
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
