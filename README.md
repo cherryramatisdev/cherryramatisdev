@@ -19,12 +19,6 @@
 - [Pattern matching - Dealing with the if statement nightmare](https://dev.to/cherryramatis/pattern-matching-dealing-with-the-if-statement-nightmare-kkb)
 <!-- BLOG-POST-LIST:END -->
 
-## My progress on the 100 days of code (Portuguese only)
-
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
-
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
