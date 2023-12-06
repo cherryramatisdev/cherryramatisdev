@@ -1,7 +1,7 @@
 ![princess-bubble-gum-388429236](https://user-images.githubusercontent.com/86631177/212934124-15c3ef0a-9a48-4a00-af39-8e0d8a89c4f4.gif)
 
 
-- 🔭 I’m currently working on Lami Health(@lami-health) as a backend developer using a javascript/typescript stack
+- 🔭 I’m currently working as a frontend developer using a React.js with typescript/javascript stack
 - 💜 I'm a proud member of the best community [He4rt](https://github.com/he4rt)
 - 🤝 I love to write about ruby and other stuffs I'm using at [Dev to](https://dev.to/cherryramatis/)
 - 💬 Ask me about text editors, automation, scripting, ruby, typescript, nestjs
