@@ -12,11 +12,11 @@
 ## Recently articles at [Dev.to](https://dev.to/cherryramatis)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ending the war or continuing it? Let&#39;s bring functional programming to OOP codebases](https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd)
 - [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
 - [Compartilhando seu conhecimento com o mundo! Como escrever artigos](https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc)
 - [Metaprogramming in ruby](https://dev.to/cherryramatis/metaprogramming-in-ruby-4p1g)
 - [Supervisors - Letting things crash](https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2)
-- [Gen servers - Abstracting state management and task run together](https://dev.to/cherryramatis/gen-servers-abstracting-state-management-and-task-run-together-hpd)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
