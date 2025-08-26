@@ -12,11 +12,11 @@
 ## Recently articles at [Dev.to](https://dev.to/cherryramatis)
 
 <!-- BLOG-POST-LIST:START -->
+- [Native Fuzzy Finder in Neovim With Lua and Cool Bindings](https://dev.to/cherryramatis/native-fuzzy-finder-in-neovim-with-lua-and-cool-bindings-1mn5)
 - [[Boost]](https://dev.to/cherryramatis/-5017)
 - [[Boost]](https://dev.to/cherryramatis/-3k25)
 - [I&#39;m looking for a FullStack Software Developer Role](https://dev.to/cherryramatis/im-looking-for-a-fullstack-software-developer-role-417m)
 - [BEAM VM The good, the bad and the ugly](https://dev.to/cherryramatis/beam-vm-the-good-the-bad-and-the-ugly-9d6)
-- [Ending the war or continuing it? Let&#39;s bring functional programming to OOP codebases](https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
